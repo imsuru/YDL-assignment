@@ -2,9 +2,10 @@ how to access the front end :
 1. open the terminal and type npm run dev
 
 how to start the backend:
-1. cd src
-2. cd form-backend
-3. node server.js
+1. open the terminal
+2. cd src
+3. cd form-backend
+4. node server.js
 
 
 
