@@ -1,9 +1,9 @@
 {
-  "name": "assign_in_react",
+  "name": "YDl-assignment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://imsuru.github.io/YDl-assignment",
+  "homepage": "https://imsuru.github.io/YDL-assignment/",
 
   "scripts": {
     "dev": "vite",
